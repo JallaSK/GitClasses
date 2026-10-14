@@ -1,1 +1,2 @@
-My Files.
+Just understanding  git (Distributed Version Control)  &&& 
+                    github (Repository to store it remotely from local)....
