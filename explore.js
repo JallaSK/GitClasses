@@ -1,7 +1,5 @@
 function explore2() {
-  
 }
-
 
 
 function explore3() {
