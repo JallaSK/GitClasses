@@ -6,4 +6,9 @@ function Hello(){
 console.log("Learning about Merge");
 
 
-console.log("Adding new files to merge in the main branch");
+//"Adding new files to merge in the main branch"
+
+function merge(){
+
+  console.log("I am always curious...");
+}
